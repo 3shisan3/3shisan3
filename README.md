@@ -11,9 +11,9 @@
 
 <div align="center">
 <!-- 添加动态数据卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=3shisan3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131313" width="40%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3shisan3&langs_count=10&theme=tokyonight&layout=compact&hide_border=true&bg_color=131313" width="30%" height="200px" />
-  <img src="https://cdn.jsdelivr.net/gh/3shisan3/3shisan3@master/assets/image_9.jpg" width="25%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3shisan3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131313" width="45%" height="233px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3shisan3&langs_count=10&theme=tokyonight&layout=compact&hide_border=true&bg_color=131313" width="26%" height="233px" />
+  <img src="https://cdn.jsdelivr.net/gh/3shisan3/3shisan3@master/assets/image_9.jpg" width="23%" height="233px" />
 </div>
 
 <br/>
@@ -32,5 +32,5 @@
   <p style="margin: 13px 0 0 0; font-size: 1.0em; color:rgb(3, 244, 87);">
       Thanks for your visit !
   </p>
-  <img src="https://count.getloli.com/@3shisan3?name=3shisan3&theme=booru-lewd&padding=10&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto" width="33%" />
+  <img src="https://count.getloli.com/@3shisan3?name=3shisan3&theme=booru-lewd&padding=10&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto" width="50%" />
 </div>
