@@ -4,7 +4,7 @@
   <img src="https://cdn.jsdelivr.net/gh/3shisan3/3shisan3@master/assets/image_14.gif" width="60">
   <br/>
   <!-- 可通过 <a href="">  </a> 定向到个人主页-->
-  <img src="https://cdn.jsdelivr.net/gh/3shisan3/3shisan3@master/assets/image_4.gif" background="transparent" >
+  <img src="https://cdn.jsdelivr.net/gh/3shisan3/3shisan3@master/assets/image_4_cur.gif" background="transparent" >
 </h1>
 
 <br/>
