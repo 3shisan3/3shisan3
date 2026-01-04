@@ -11,8 +11,8 @@
 
 <div align="center">
 <!-- 添加动态数据卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=3shisan3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131313" width="45%" height="233px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3shisan3&langs_count=10&theme=tokyonight&layout=compact&hide_border=true&bg_color=131313" width="26%" height="233px" />
+  <img src="https://github-readme-stats-omega-ten-23.vercel.app/api?username=3shisan3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=131313" width="45%" height="233px" />
+  <img src="https://github-readme-stats-omega-ten-23.vercel.app/api/top-langs/?username=3shisan3&langs_count=10&theme=tokyonight&layout=compact&hide_border=true&bg_color=131313" width="26%" height="233px" />
   <img src="https://cdn.jsdelivr.net/gh/3shisan3/3shisan3@master/assets/image_9.jpg" width="23%" height="233px" />
 </div>
 
