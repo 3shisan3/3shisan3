@@ -38,5 +38,5 @@
   <p style="margin: 13px 0 0 0; font-size: 1.0em; color:rgb(3, 244, 87);">
       Thanks for your visit !
   </p>
-  <img src="https://count.getloli.com/@3shisan3?name=3shisan3&theme=booru-lewd&padding=10&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto" width="50%" />
+  <img src="https://count.getloli.com/@3shisan3?theme=booru-lewd&padding=10&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto" width="50%" />
 </div>
